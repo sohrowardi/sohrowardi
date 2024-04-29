@@ -8,6 +8,6 @@ Want to connect? Find me here:
 
 - [LinkedIn](https://www.linkedin.com/in/sohrowardi/)
 - [Reddit](https://www.reddit.com/user/sohrowardi)
-- [YouTube](https://www.youtube.com/user/sohrowardi)
+- [YouTube](https://www.youtube.com/@sohrowardi)
 
 Or drop me an email at sohrowardi@outlook.com.
