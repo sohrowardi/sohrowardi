@@ -1,53 +1,31 @@
 # Hi there! 👋
 
-I'm Mohammad Sohrowardi, a passionate programmer with a focus on Python development. Welcome to my GitHub profile! Feel free to explore some of my projects below:
+I'm Mohammad Sohrowardi, a passionate learner and aspiring Python developer. Welcome to my GitHub profile! Here, you'll find a collection of projects that I've been working on as I explore the exciting world of programming. Feel free to take a look around and explore some of the things I've been building.
 
-## Featured Repositories
+## About Me
 
-### Social-Uploader
-- [Repository Link](https://github.com/sohrowardi/Social-Uploader)
-- Description: This code manages API keys and content upload for various social media platforms using a configuration file and specific Python scripts.
-- Tags: configuration-management, content-management, python-scripts, api-keys, social-media-integration
+I'm relatively new to programming, but I'm eager to learn and grow with each project I tackle. My journey started with simple scripts and has evolved into more complex applications as I've gained confidence and skills along the way. I believe in the power of programming to solve problems and make a positive impact, and I'm excited to see where this journey takes me.
 
-### D-Archive.org
-- [Repository Link](https://github.com/sohrowardi/D-Archive.org)
-- Description: A Python script for downloading books from the Internet Archive, offering PDF or JPEG output options via CLI.
-- Tags: python-script, internet-archive, web-scraping, book-downloader
+## Featured Projects
 
-### Automate7z
-- [Repository Link](https://github.com/sohrowardi/Automate7z)
-- Description: Automate7z is a Python script that simplifies file and folder archiving using 7z compression, featuring password encryption and customizable settings.
+### [Social-Uploader](https://github.com/sohrowardi/Social-Uploader)
 
-### Project-Folder-Structure-Cloner
-- [Repository Link](https://github.com/sohrowardi/Project-Folder-Structure-Cloner)
-- Description: Automates video project folder creation for streamlined organization.
+Ever needed to manage API keys and upload content to various social media platforms? Look no further! Social-Uploader is a Python script I developed to simplify this process. With a configuration file and specific Python scripts, you can seamlessly integrate social media content management into your projects.
 
-### GPT-in-Terminal
-- [Repository Link](https://github.com/sohrowardi/GPT-in-Terminal)
-- Description: A project under development for integrating GPT-based chatbot or voice assistant into the terminal.
+### [D-Archive.org](https://github.com/sohrowardi/D-Archive.org)
 
-## Other Repositories
-- [Woven-Label-Price-Calculator](https://github.com/sohrowardi/Woven-Label-Price-Calculator)
-- [Automate-File-Rename](https://github.com/sohrowardi/Automate-File-Rename)
-- [Crypto-investment-simulator](https://github.com/sohrowardi/Crypto-investment-simulator)
-- [file_list_creator](https://github.com/sohrowardi/file_list_creator)
-- [Local-Chatroom](https://github.com/sohrowardi/Local-Chatroom)
-- [Update-System-Script](https://github.com/sohrowardi/Update-System-Script)
-- [Get-Folder-Structure-With-Content](https://github.com/sohrowardi/Get-Folder-Structure-With-Content)
-- [Number-Guessing-Game](https://github.com/sohrowardi/Number-Guessing-Game)
-- [Age-Calculator](https://github.com/sohrowardi/Age-Calculator)
-- [zphisher](https://github.com/sohrowardi/zphisher)
-- [s.bot](https://github.com/sohrowardi/s.bot)
-- [modivator](https://github.com/sohrowardi/modivator)
-- [Calc-U-Later](https://github.com/sohrowardi/Calc-U-Later)
-- [TicTacToe](https://github.com/sohrowardi/TicTacToe)
-- [Nokia-Snake-Game](https://github.com/sohrowardi/Nokia-Snake-Game)
-- [FTB](https://github.com/sohrowardi/FTB)
-- [usbrubberducky-payloads](https://github.com/sohrowardi/usbrubberducky-payloads)
-- [Automatic-WAV-File-Renamer](https://github.com/sohrowardi/Automatic-WAV-File-Renamer)
-- [Discord-Webhooks-Sender](https://github.com/sohrowardi/Discord-Webhooks-Sender)
-- [generative-ai-for-beginners](https://github.com/sohrowardi/generative-ai-for-beginners)
-- [bitcoin](https://github.com/sohrowardi/bitcoin)
-- [SocialFish](https://github.com/sohrowardi/SocialFish)
+Are you a book lover like me? D-Archive.org is a handy Python script for downloading books from the Internet Archive. Whether you prefer PDF or JPEG output options via CLI, this script has got you covered. Say goodbye to manual book downloads and hello to automated convenience!
 
-Feel free to reach out if you have any questions or suggestions about my projects!
+### [Automate7z](https://github.com/sohrowardi/Automate7z)
+
+Tired of manually compressing files and folders? Automate7z to the rescue! This Python script streamlines file and folder archiving using 7z compression. With features like password encryption and customizable settings, you can archive your data with ease and peace of mind.
+
+## Learning Journey
+
+Each project in my repository represents a step forward in my learning journey. From basic scripts to more advanced applications, I'm constantly challenging myself to explore new concepts and technologies. I'm grateful for the supportive community here on GitHub and the resources that have helped me along the way.
+
+## Get in Touch
+
+I'm always eager to connect with fellow learners and developers. Whether you have feedback on my projects, suggestions for improvement, or just want to say hello, feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/sohrowardi/) and [Twitter](https://twitter.com/sohrowardi), or you can drop me a message here on GitHub.
+
+Happy coding! 🚀
